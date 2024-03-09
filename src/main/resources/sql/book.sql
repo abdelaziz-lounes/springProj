@@ -1,0 +1,1 @@
+insert into BOOK (id, title) values (1,'multimilionaire');
